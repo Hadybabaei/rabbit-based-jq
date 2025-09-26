@@ -1,8 +1,8 @@
 {
-  "name": "com.chargoon.cloud.common.jobqueue",
-  "version": "0.0.10",
+  "name": "rabbit.based.jq",
+  "version": "0.0.1",
   "description": "",
-  "author": "h.babaei@chargoon.com",
+  "author": "mr.hady.ba69@gmail.com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
